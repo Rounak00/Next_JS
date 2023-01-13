@@ -1,0 +1,19 @@
+//Framework a complete package
+//Library is a thirdparty package
+
+NextJs is a React Framework for Production.
+-> It is used to super fast and extremely user friendly static website
+-> it supports hybrid application
+
+Why we need NextJS ?
+-> It is SEO Efficiency
+-> It is using server side rendering and at the same time it can be also a great static site generator
+
+More characteristics :
+  --> File Based Routing
+  --> CSS modules
+  --> pre rendering (better SEO)
+  --> Image Optimigation
+  --> API Route
+  --> Dev and Prod build system
+
