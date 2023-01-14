@@ -1,0 +1,13 @@
+/* 
+It is used to style a particular page or component
+Naming convention --> YourFilrName.module.css 
+we cant use tagname here
+--------------Now in component page we use it this way-----------------------------
+import styles from "../../styles/Home.module.css
+
+<p className={style.ourText}> Hello <p/> // instead of this way <p className="style.ourText"> Hello <p/>
+
+//for multi class in single attribute
+<p className={ `${styles.btn} ${styles.btnex}`}>Hello </p>
+
+*/
