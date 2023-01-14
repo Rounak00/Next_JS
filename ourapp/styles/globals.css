@@ -1,1 +1,16 @@
 /* only rule is we need to add it at app file and import at first and we can write css for any file here */
+
+
+/*  Inline CSS
+<p style={{Your css from of object}}>HEllo</p>
+
+*/
+
+/*  style jsx css : it is use in ajsx file
+<p >HEllo<p/>
+   <style jsx>{`
+       p{
+         color: red; 
+         }
+   `}<style/>
+*/
