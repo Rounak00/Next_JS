@@ -1,14 +1,11 @@
 
 
 import Link from "next/link";
-
+import Nav from "@/components/Nav";
 const index= ()=> {
   return (
     <>
-    <nav>
-      <Link href="/home">Home</Link>
-      <Link href="/about">About</Link>
-    </nav>
+    <Nav />
       <p>Hello </p> 
     </>
   );
