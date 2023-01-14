@@ -1,10 +1,14 @@
-import styles from '@/styles/Home.module.css'
 
 
+import Link from "next/link";
 
 const index= ()=> {
   return (
     <>
+    <nav>
+      <Link href="/home">Home</Link>
+      <Link href="/about">About</Link>
+    </nav>
       <p>Hello </p> 
     </>
   );
